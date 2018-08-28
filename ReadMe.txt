@@ -8,6 +8,10 @@ https://www.york.ac.uk/media/electronic-engineering/postgraduate/reading/C-Lab-S
 
 Please note that midi_lib.h is not included here. 
 
+The project was part of my contribution to Jez Wells' lectures and assessments at the Music Technology Department (University of York) in 2006.
+
+
+
 
 
 
